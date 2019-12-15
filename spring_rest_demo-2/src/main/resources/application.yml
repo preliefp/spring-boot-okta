@@ -1,0 +1,5 @@
+okta:  
+  oauth2:
+    issuer: https://dev-545990.okta.com/oauth2/default
+    client-id : 0oa27ss3gqwdUskSh357
+    client-secret: qU6RDRljDLSxelZMhjdYk5ms-IoNxAkCNr5SZC6_
